@@ -1,0 +1,14 @@
+D:\Smart_Home_Api\BLL\bin\Debug\BLL.dll
+D:\Smart_Home_Api\BLL\bin\Debug\BLL.pdb
+D:\Smart_Home_Api\BLL\bin\Debug\AutoMapper.dll
+D:\Smart_Home_Api\BLL\bin\Debug\DAL.dll
+D:\Smart_Home_Api\BLL\bin\Debug\EntityFramework.dll
+D:\Smart_Home_Api\BLL\bin\Debug\DAL.pdb
+D:\Smart_Home_Api\BLL\bin\Debug\DAL.dll.config
+D:\Smart_Home_Api\BLL\bin\Debug\AutoMapper.xml
+D:\Smart_Home_Api\BLL\bin\Debug\EntityFramework.xml
+D:\Smart_Home_Api\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Smart_Home_Api\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Smart_Home_Api\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Smart_Home_Api\BLL\obj\Debug\BLL.dll
+D:\Smart_Home_Api\BLL\obj\Debug\BLL.pdb

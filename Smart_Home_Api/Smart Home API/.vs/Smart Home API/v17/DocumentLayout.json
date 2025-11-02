@@ -1,0 +1,922 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Smart_Home_Api\\Smart Home API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\repos\\devicerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\repos\\automationrulerepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\202509291119194_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\202509291155445_addtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\202509291907000_datains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\202509291924501_deletedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\202509291941334_insdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\ef\\umscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5E25F-06DE-4B08-B416-3430AB1D677D}|..\\BLL\\BLL.csproj|d:\\smart_home_api\\bll\\services\\energylogservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5E25F-06DE-4B08-B416-3430AB1D677D}|..\\BLL\\BLL.csproj|d:\\smart_home_api\\bll\\services\\roomservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5E25F-06DE-4B08-B416-3430AB1D677D}|..\\BLL\\BLL.csproj|d:\\smart_home_api\\bll\\services\\deviceservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5E25F-06DE-4B08-B416-3430AB1D677D}|..\\BLL\\BLL.csproj|d:\\smart_home_api\\bll\\services\\automationruleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\ef\\tables\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\interfaces\\ienergylogcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|D:\\Smart_Home_Api\\Smart Home API\\controllers\\automationrulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|solutionrelative:controllers\\automationrulecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\repos\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\repos\\energylogrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\dataaccessfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\ef\\tables\\energylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43A5E25F-06DE-4B08-B416-3430AB1D677D}|..\\BLL\\BLL.csproj|d:\\smart_home_api\\bll\\dtos\\devicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|D:\\Smart_Home_Api\\Smart Home API\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|D:\\Smart_Home_Api\\Smart Home API\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|solutionrelative:controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|D:\\Smart_Home_Api\\Smart Home API\\controllers\\energylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|solutionrelative:controllers\\energylogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53398DC3-A5F4-470E-AB29-0816D9283278}|..\\DAL\\DAL.csproj|d:\\smart_home_api\\dal\\migrations\\202510031644092_fixdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Interfaces\\IDeviceControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|D:\\Smart_Home_Api\\Smart Home API\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{365D3274-6B1E-4FBB-A2CD-D7BD0903A919}|PresentationAPI.csproj|solutionrelative:app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\semester 9\\ADVANCED PROGRAMMING WITH .NET [B]\\Final Project\\DAL\\EF\\UMSContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\semester 9\\ADVANCED PROGRAMMING WITH .NET [B]\\Final Project\\BLL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Repos\\DeviceRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Interfaces\\IRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\EF\\Tables\\Room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\EF\\Tables\\EnergyLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\EF\\Tables\\Device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\Services\\RoomServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\Services\\DeviceServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\DataAccessFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Interfaces\\IRoomControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Repos\\RoomRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\Services\\AutomationRuleServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Repos\\AutomationRuleRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Interfaces\\IRuleControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Interfaces\\IEnergyLogControl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Repos\\EnergyLogRepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Repos\\Repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\Services\\EnergyLogServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\DTOs\\EnergyLogDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\DTOs\\DeviceDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\DTOs\\RoomDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\BLL\\DTOs\\AutomationRuleDTO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\EF\\Tables\\AutomationRule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\202509291941334_INSDATA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\202509291931185_DataInsAgin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\202509291924501_DeleteData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\202509291907000_DataIns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\202509291155445_addTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\Configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\EF\\UMSContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Final Project\\DAL\\Migrations\\202509291119194_initDB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202509291119194_initDB.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:25:31.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202509291155445_addTables.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:25:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202509291907000_DataIns.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:25:26.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\UMSContext.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T06:25:03.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutomationRuleRepo.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:51:20.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeviceRepo.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Repos\\DeviceRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\DeviceRepo.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Repos\\DeviceRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\DeviceRepo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T19:33:38.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DeviceServices.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\BLL\\Services\\DeviceServices.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\DeviceServices.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\BLL\\Services\\DeviceServices.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\DeviceServices.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv1MAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:27:05.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AutomationRuleServices.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\BLL\\Services\\AutomationRuleServices.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\AutomationRuleServices.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\BLL\\Services\\AutomationRuleServices.cs*",
+              "RelativeToolTip": "..\\BLL\\Services\\AutomationRuleServices.cs*",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwv0cAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:54:23.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnergyLogServices.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\BLL\\Services\\EnergyLogServices.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\EnergyLogServices.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\BLL\\Services\\EnergyLogServices.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\EnergyLogServices.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:38:24.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202509291941334_INSDATA.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:05:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202509291924501_DeleteData.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:27:52.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\EF\\Tables\\Device.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\Tables\\Device.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\EF\\Tables\\Device.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\Tables\\Device.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:57:51.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEnergyLogControl.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "RelativeToolTip": "..\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:35:24.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RoomServices.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\BLL\\Services\\RoomServices.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\Services\\RoomServices.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\BLL\\Services\\RoomServices.cs",
+              "RelativeToolTip": "..\\BLL\\Services\\RoomServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T16:06:23.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AutomationRuleController.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\AutomationRuleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AutomationRuleController.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\AutomationRuleController.cs*",
+              "RelativeToolTip": "Controllers\\AutomationRuleController.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:58:41.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\DeviceController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\DeviceController.cs",
+              "RelativeToolTip": "Controllers\\DeviceController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAswGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:44:31.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "..\\DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:40:24.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T19:14:43.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EnergyLogRepo.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Repos\\EnergyLogRepo.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Repos\\EnergyLogRepo.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Repos\\EnergyLogRepo.cs",
+              "RelativeToolTip": "..\\DAL\\Repos\\EnergyLogRepo.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:36:06.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeviceDTO.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\BLL\\DTOs\\DeviceDTO.cs",
+              "RelativeDocumentMoniker": "..\\BLL\\DTOs\\DeviceDTO.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\BLL\\DTOs\\DeviceDTO.cs",
+              "RelativeToolTip": "..\\BLL\\DTOs\\DeviceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:45:18.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EnergyLog.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "RelativeToolTip": "..\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:46:34.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomController.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "Controllers\\RoomController.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAADwv00AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:53:28.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnergyLogController.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\EnergyLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EnergyLogController.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\Smart Home API\\Controllers\\EnergyLogController.cs",
+              "RelativeToolTip": "Controllers\\EnergyLogController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:09:14.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:56:13.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "202510031644092_fixdata.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\DAL\\Migrations\\202510031644092_fixdata.cs",
+              "RelativeDocumentMoniker": "..\\DAL\\Migrations\\202510031644092_fixdata.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\DAL\\Migrations\\202510031644092_fixdata.cs",
+              "RelativeToolTip": "..\\DAL\\Migrations\\202510031644092_fixdata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T16:44:15.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeviceRepo.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Repos\\DeviceRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Repos\\DeviceRepo.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Repos\\DeviceRepo.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Repos\\DeviceRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwD8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:25:48.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IDeviceControl.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Interfaces\\IDeviceControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Interfaces\\IDeviceControl.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Interfaces\\IDeviceControl.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Interfaces\\IDeviceControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:42:21.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:41:35.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\EF\\Tables\\Room.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\EF\\Tables\\Room.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\EF\\Tables\\Room.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\EF\\Tables\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:35:15.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EnergyLog.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\EF\\Tables\\EnergyLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:38:48.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\EF\\Tables\\Device.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\EF\\Tables\\Device.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\EF\\Tables\\Device.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\EF\\Tables\\Device.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:36:25.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoomServices.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\Services\\RoomServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\Services\\RoomServices.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\Services\\RoomServices.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\Services\\RoomServices.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAkwHwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:19:40.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DeviceServices.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\Services\\DeviceServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\Services\\DeviceServices.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\Services\\DeviceServices.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\Services\\DeviceServices.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:41:40.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "DataAccessFactory.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\DataAccessFactory.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\DataAccessFactory.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\DataAccessFactory.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\DataAccessFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:15:01.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "IRoomControl.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Interfaces\\IRoomControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Interfaces\\IRoomControl.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Interfaces\\IRoomControl.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Interfaces\\IRoomControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:43:50.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "RoomRepo.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Repos\\RoomRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Repos\\RoomRepo.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Repos\\RoomRepo.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Repos\\RoomRepo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:04:30.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AutomationRuleServices.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\Services\\AutomationRuleServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\Services\\AutomationRuleServices.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\Services\\AutomationRuleServices.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\Services\\AutomationRuleServices.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAswEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T21:56:51.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AutomationRuleRepo.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Repos\\AutomationRuleRepo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:22:16.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IRuleControl.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Interfaces\\IRuleControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Interfaces\\IRuleControl.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Interfaces\\IRuleControl.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Interfaces\\IRuleControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:43:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IEnergyLogControl.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Interfaces\\IEnergyLogControl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T14:45:08.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "EnergyLogRepo.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Repos\\EnergyLogRepo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Repos\\EnergyLogRepo.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Repos\\EnergyLogRepo.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Repos\\EnergyLogRepo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowBcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:17:07.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Repo.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Repos\\Repo.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Repos\\Repo.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Repos\\Repo.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Repos\\Repo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:04:50.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "EnergyLogServices.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\Services\\EnergyLogServices.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\Services\\EnergyLogServices.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\Services\\EnergyLogServices.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\Services\\EnergyLogServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T22:08:16.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "D:\\Smart_Home_Api\\Smart Home API\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\WebApiConfig.cs",
+              "ToolTip": "D:\\Smart_Home_Api\\Smart Home API\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:58:12.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnergyLogDTO.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\DTOs\\EnergyLogDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\DTOs\\EnergyLogDTO.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\DTOs\\EnergyLogDTO.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\DTOs\\EnergyLogDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:26:16.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "DeviceDTO.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\DTOs\\DeviceDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\DTOs\\DeviceDTO.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\DTOs\\DeviceDTO.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\DTOs\\DeviceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:24:06.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "RoomDTO.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\DTOs\\RoomDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\DTOs\\RoomDTO.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\DTOs\\RoomDTO.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\DTOs\\RoomDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:23:09.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AutomationRuleDTO.cs",
+              "DocumentMoniker": "D:\\Final Project\\BLL\\DTOs\\AutomationRuleDTO.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\BLL\\DTOs\\AutomationRuleDTO.cs",
+              "ToolTip": "D:\\Final Project\\BLL\\DTOs\\AutomationRuleDTO.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\BLL\\DTOs\\AutomationRuleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T20:25:24.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "AutomationRule.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\EF\\Tables\\AutomationRule.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\EF\\Tables\\AutomationRule.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\EF\\Tables\\AutomationRule.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\EF\\Tables\\AutomationRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:39:54.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "202509291941334_INSDATA.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\202509291941334_INSDATA.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:41:39.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "202509291931185_DataInsAgin.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\202509291931185_DataInsAgin.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\202509291931185_DataInsAgin.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\202509291931185_DataInsAgin.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\202509291931185_DataInsAgin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:31:24.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "202509291924501_DeleteData.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\202509291924501_DeleteData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:24:55.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "202509291907000_DataIns.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\202509291907000_DataIns.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T19:07:06.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "202509291155445_addTables.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\202509291155445_addTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:55:52.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBsAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:18:40.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\EF\\UMSContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\EF\\UMSContext.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\EF\\UMSContext.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\EF\\UMSContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:15:15.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "202509291119194_initDB.cs",
+              "DocumentMoniker": "D:\\Final Project\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "RelativeDocumentMoniker": "..\\..\\Final Project\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "ToolTip": "D:\\Final Project\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "RelativeToolTip": "..\\..\\Final Project\\DAL\\Migrations\\202509291119194_initDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-29T11:19:32.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UMSContext.cs",
+              "DocumentMoniker": "E:\\semester 9\\ADVANCED PROGRAMMING WITH .NET [B]\\Final Project\\DAL\\EF\\UMSContext.cs",
+              "ToolTip": "E:\\semester 9\\ADVANCED PROGRAMMING WITH .NET [B]\\Final Project\\DAL\\EF\\UMSContext.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T19:26:59.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\semester 9\\ADVANCED PROGRAMMING WITH .NET [B]\\Final Project\\BLL\\Class1.cs",
+              "ToolTip": "E:\\semester 9\\ADVANCED PROGRAMMING WITH .NET [B]\\Final Project\\BLL\\Class1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:55:31.111Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
